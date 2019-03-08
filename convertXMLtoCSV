@@ -1,3 +1,9 @@
+/********************************************************************************************************
+* Name: ConvertXMLtoCSV
+* Description: This code converts a string of XML to CSV.
+* Note: you can test this online using: https://www.compilejava.net/
+********************************************************************************************************/
+
 import java.io.*; //For converting a String to an InputStream
 import java.nio.charset.StandardCharsets; //For converting a String to an InputStream
 import javax.xml.parsers.*;  //For parsing XML
@@ -14,6 +20,7 @@ public class main
     ArrayList<String> newCSV = convertXMLtoCSV(myXMLString);
  
     System.out.print(newCSV);
+    
     //ToDo: do something with this output here...
      
   }
