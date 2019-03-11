@@ -1,2 +1,2 @@
-# javaTests
-This repo has miscellaneous code from testing things in Java.
+# javaSnippets
+This repo contains miscellaneous Java code snippets.
