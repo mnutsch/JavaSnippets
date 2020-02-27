@@ -1,3 +1,5 @@
+// Pass test number into the main method as an argument.
+// Test this online with https://www.compilejava.net/
 import java.lang.Math; 
 import java.util.*;
 
