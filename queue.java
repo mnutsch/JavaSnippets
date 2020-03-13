@@ -1,4 +1,3 @@
-// Pass test number into the main method as an argument.
 // Test this online with https://www.compilejava.net/
 import java.util.LinkedList; 
 import java.util.Queue; 
